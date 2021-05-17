@@ -1,0 +1,11 @@
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.exe
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.deps.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.runtimeconfig.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.runtimeconfig.dev.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.csprojAssemblyReference.cache
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.AssemblyInfoInputs.cache
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.AssemblyInfo.cs
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\StringHandling\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.pdb

@@ -1,0 +1,11 @@
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\bin\Debug\netcoreapp3.1\Other.Example.exe
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\bin\Debug\netcoreapp3.1\Other.Example.deps.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\bin\Debug\netcoreapp3.1\Other.Example.runtimeconfig.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\bin\Debug\netcoreapp3.1\Other.Example.runtimeconfig.dev.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\bin\Debug\netcoreapp3.1\Other.Example.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\bin\Debug\netcoreapp3.1\Other.Example.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\obj\Debug\netcoreapp3.1\Other.Example.AssemblyInfoInputs.cache
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\obj\Debug\netcoreapp3.1\Other.Example.AssemblyInfo.cs
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\obj\Debug\netcoreapp3.1\Other.Example.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\obj\Debug\netcoreapp3.1\Other.Example.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\Other.Example\obj\Debug\netcoreapp3.1\Other.Example.csprojAssemblyReference.cache

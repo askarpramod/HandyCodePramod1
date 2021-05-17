@@ -1,0 +1,11 @@
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\bin\Debug\netcoreapp3.1\CSharp.Collection.exe
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\bin\Debug\netcoreapp3.1\CSharp.Collection.deps.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\bin\Debug\netcoreapp3.1\CSharp.Collection.runtimeconfig.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\bin\Debug\netcoreapp3.1\CSharp.Collection.runtimeconfig.dev.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\bin\Debug\netcoreapp3.1\CSharp.Collection.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\bin\Debug\netcoreapp3.1\CSharp.Collection.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\obj\Debug\netcoreapp3.1\CSharp.Collection.AssemblyInfoInputs.cache
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\obj\Debug\netcoreapp3.1\CSharp.Collection.AssemblyInfo.cs
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\obj\Debug\netcoreapp3.1\CSharp.Collection.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\obj\Debug\netcoreapp3.1\CSharp.Collection.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\CSharp.Collection\obj\Debug\netcoreapp3.1\CSharp.Collection.csprojAssemblyReference.cache

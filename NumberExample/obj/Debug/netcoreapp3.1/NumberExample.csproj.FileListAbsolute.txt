@@ -1,0 +1,11 @@
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\bin\Debug\netcoreapp3.1\NumberExample.exe
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\bin\Debug\netcoreapp3.1\NumberExample.deps.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\bin\Debug\netcoreapp3.1\NumberExample.runtimeconfig.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\bin\Debug\netcoreapp3.1\NumberExample.runtimeconfig.dev.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\bin\Debug\netcoreapp3.1\NumberExample.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\bin\Debug\netcoreapp3.1\NumberExample.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\obj\Debug\netcoreapp3.1\NumberExample.AssemblyInfoInputs.cache
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\obj\Debug\netcoreapp3.1\NumberExample.AssemblyInfo.cs
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\obj\Debug\netcoreapp3.1\NumberExample.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\obj\Debug\netcoreapp3.1\NumberExample.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\NumberExample\obj\Debug\netcoreapp3.1\NumberExample.csprojAssemblyReference.cache

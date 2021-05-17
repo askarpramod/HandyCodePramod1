@@ -1,0 +1,10 @@
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\bin\Debug\netcoreapp3.1\OOPConcepts.exe
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\bin\Debug\netcoreapp3.1\OOPConcepts.deps.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\bin\Debug\netcoreapp3.1\OOPConcepts.runtimeconfig.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\bin\Debug\netcoreapp3.1\OOPConcepts.runtimeconfig.dev.json
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\bin\Debug\netcoreapp3.1\OOPConcepts.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\bin\Debug\netcoreapp3.1\OOPConcepts.pdb
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\obj\Debug\netcoreapp3.1\OOPConcepts.AssemblyInfoInputs.cache
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\obj\Debug\netcoreapp3.1\OOPConcepts.AssemblyInfo.cs
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\obj\Debug\netcoreapp3.1\OOPConcepts.dll
+C:\Data\Project\DotNetMVCProject\MVCSoln\OOPConcepts\obj\Debug\netcoreapp3.1\OOPConcepts.pdb
